@@ -1,0 +1,11 @@
+```fix
+// Commands:```
+        `n!impossible`
+        `n!advice`
+        `n!name`
+        `n!8ball`
+        `n!delicacy`
+  
+
+
+
