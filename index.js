@@ -10,6 +10,8 @@ const fs = require('fs');
 
 var commandsList = fs.readFileSync('./commands.txt', 'utf8');
 
+var alinaDefinition = fs.readFileSync('./alina.txt', 'utf8');
+
 
 const fortunes = [
   ':8ball: | Yes',
@@ -51,7 +53,9 @@ bot.on('message', (message) => {
     case 'delicacy':
       message.channel.sendMessage(':cookie: | but ***you*** are the true delicacy');
       break;
-   
+    case 'alina':
+      message.channel.send(alinaDefinition);
+      break;
   }
 });
 bot.login(config.token);
