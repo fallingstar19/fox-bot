@@ -56,7 +56,9 @@ bot.on('message', (message) => {
     case 'alina':
       message.channel.send(alinaDefinition);
       break;
-   
+    case 'alina':
+      message.channel.send(alinaDefinition);
+      break;
   }
 });
 bot.login(config.token);

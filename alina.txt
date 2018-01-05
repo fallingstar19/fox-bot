@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Alina**
 
   /ah - LEE - nah /
@@ -8,4 +9,16 @@
       2. A Queen
       3. I still want to kiss her
       4. Has a mean kick :smirk:
+=======
+**Alina**
+
+  /ah - LEE - nah /
+
+  *noun*
+
+      1. Sunshine, pure sunshine :yellow_heart: 
+      2. A Queen
+      3. I still want to kiss her
+      4. Has a mean kick :smirk:
+>>>>>>> 056f3313f3b6b2212c5df71cabd1dc4f139fae13
       5. Hates herring
